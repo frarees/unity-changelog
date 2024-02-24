@@ -1,3 +1,4 @@
-Archive of Unity release notes.
+Archive of [Unity](https://unity.com/) release notes.
 
-Check [TIMELINE](TIMELINE) for a chronologically ordered list of releases.
+* [Changelogs](Changelogs/) are organized by `MAJOR.MINOR` version number.
+* [TIMELINE](TIMELINE) contains the history of public releases.
